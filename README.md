@@ -6,3 +6,4 @@ A project to demo git
 #test git using VSC
 #test 1 
 #test lagi
+#cubaan merge guna notepad
